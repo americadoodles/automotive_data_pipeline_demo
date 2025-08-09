@@ -61,4 +61,4 @@ Endpoints (when DB is enabled, writes go to Postgres; otherwise use in-memory st
 
 
 ## Architecture Diagram
-See `assets/auto_pipeline_diagram.png`.
+![Auto Buyer Architecture](assets/auto_pipeline_diagram.png)
